@@ -1,2 +1,6 @@
 i have added this fronm vs code
 12345
+new features added 
+new tiles 
+new roles 
+ui changes
